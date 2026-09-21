@@ -9,7 +9,7 @@ A modern, neon-themed personal portfolio website built with React, featuring 3D 
 
 ## 🚀 Live Demo
 
-**Visit the live portfolio:** [neon-cv.vercel.app/](neon-cv.vercel.app/)
+**Visit the live portfolio:** ((https://unathimbolongwe.vercel.app/))
 
 ## ✨ What This Project Is
 
@@ -141,7 +141,7 @@ This project is open-sourced under the MIT License - see the [LICENSE](LICENSE) 
 
 **Unathi Kevin Mbolongwe**
 
-- **Portfolio**: [neon-cv.vercel.app/](neon-cv.vercel.app/)
+- **Portfolio**: [neon-cv.vercel.app/]([neon-cv.vercel.app/](https://unathimbolongwe.vercel.app/))
 - **Email**: unathilubombzmbolongwe@gmail.com
 - **LinkedIn**: [linkedin.com/in/unathi-mbolongwe](https://www.linkedin.com/in/unathi-mbolongwe/)
 - **GitHub**: [github.com/kvnxmars](https://github.com/kvnxmars)
