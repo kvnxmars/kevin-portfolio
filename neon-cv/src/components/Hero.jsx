@@ -17,7 +17,7 @@ export default function Hero() {
         </div>
 
         {/* HERO TEXT */}
-        <h1 className="glow-text">KEVIN MBOLONGWE</h1>
+        <h1 className="glow-text">UNATHI (KEVIN) MBOLONGWE</h1>
 
         {/* "Data Science" previously used fa-palette, which reads as a design
             icon, not a data one — swapped to a chart icon so each tag actually
